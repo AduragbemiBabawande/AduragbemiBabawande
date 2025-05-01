@@ -1,11 +1,11 @@
-<h1>Hello World 👋🏾</h1>
+<h1>Hello World 👋</h1>
 
 
     
 <h1>Welcome To ADTECH'S Profile</h1>
 
 ###   **My current role in tech...** </h2>
-       { Frontend Enfineer } 
+       { Frontend Engineer } 
 
 
 
@@ -19,14 +19,17 @@
 #### About Me
 Here are some basic things to know about ADTECH; 
 
-- 🔭 I’m currently exploring the Space Tech Ecosystem, 
-- 🌱 I’m a Systems Engineering Major,
-- 👯 I’m looking for people to join the communities I'm building.
-- 🤔 I can help you with getting into open-source,
-- 💬 Ask me about anything, 🌚
-- 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2347053539948,
-- 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming & Writing.
+🔧  Web developer who enjoys coding & repairing things
+🌱 I’m currently a Chemistry student at the University of Lagos, but my real love lies in tech—software, hardware, and everything in between.
+👨🏽‍💻 I’ve built websites for events, businesses, and NGOs, and also offer professional laptop repair and IT services.
+🤝 I’m looking to connect with fellow developers and entrepreneurs.
+💬 Ask me about getting started in tech, fixing laptops, or creating a simple but powerful website.
+📫 You can reach me at adurababawande28@gmail.com | 07075914012
+⚡ Fun fact: I enjoy gaming.
+😄 Pronouns: He/Him.
+
+
+
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=AduragbemiBabawande&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
