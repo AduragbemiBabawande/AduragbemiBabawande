@@ -25,7 +25,6 @@ Here are some basic things to know about ADTECH;
 🤝 I’m looking to connect with fellow developers and entrepreneurs.
 💬 Ask me about getting started in tech, fixing laptops, or creating a simple but powerful website.
 📫 You can reach me at adurababawande28@gmail.com | 07075914012
-⚡ Fun fact: I enjoy gaming.
 😄 Pronouns: He/Him.
 
 
