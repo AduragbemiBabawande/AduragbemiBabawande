@@ -19,7 +19,7 @@
 #### About Me
 Here are some basic things to know about ADTECH; 
 
-🔧  Web developer who enjoys coding & repairing things
+🔧  Web developer who enjoys coding & repairing Computers
 🌱 I’m currently a Chemistry student at the University of Lagos, but my real love lies in tech—software, hardware, and everything in between.
 👨🏽‍💻 I’ve built websites for events, businesses, and NGOs, and also offer professional laptop repair and IT services.
 🤝 I’m looking to connect with fellow developers and entrepreneurs.
